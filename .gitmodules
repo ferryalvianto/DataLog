@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:ferryalvianto/DataLog_Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:ferryalvianto/DataLog_Frontend.git
